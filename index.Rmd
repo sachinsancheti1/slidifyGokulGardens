@@ -31,9 +31,63 @@ $(function() {
 
 ## Gokul Gardens
 
-<q>Gokul Gardens is a DTCP approved layout located on the outskirts of Coimbatore. With over a 100 plots, the layout caters to good quality living at a reasonable value.</q>
+Gokul Gardens is a DTCP approved layout located on the outskirts of Coimbatore. With over a 100 plots, the layout caters to good quality living at a reasonable value.
+
+![Layout](assets/img/Masterplan-plots-layout.jpg)
 
 --- 
+
+## Gokul Gardens - Layout
+
+The well-planned layout has <span class="red">wide roads</span>, <span class="red">rainwater harvesting</span>, <span class="red">overhead water storage tank</span>, <span class="red">flowering trees</span> and various <span class="red">parks</span> across the layout. Located close to Mathampalayam, it is surrounded with 12 educational institutions and hospitals within 5 km.
+
+![View of Gokul Gardens layout](assets/img/GGPlots-1.jpg)
+
+---
+
+## Gokul Gardens - Plots
+
+Our plots are fully approved residential plots which are <span class="red">priced affordably</span> and are of between <span class="red">1.5 cents to 6 cents</span>. Each plot is surrounded with flowering trees and is less than 50 metres away from the park. Every plot has a <span class="red">beautiful view of the Nilgiris range</span> and the surrounding hills.
+
+![Roadway along park](assets/img/GGPlots-16.jpg)
+
+---
+
+## Gokul Gardens - Homes
+
+---
+
+## Gokul Gardens - 15
+
+---
+
+## Gokul Gardens - 28
+
+---
+
+## Benefits of being at Gokul Gardens
+
+Some of the benefits the layout has to offer are:
+
+>* 1,50,000 litre overhead water tank
+
+>* Rain water harvesting done throughout the layout to charge wells
+
+>* Avenue trees along all roads with drip irrigation to support them for years together
+
+>* Fully tarred 40 feet main road with 23/30 feet approach roads
+
+>* Street Lighting & domestic EB connections available within layout
+
+>* 3 Parks spread over 50,000 sq.ft with Basketball, Volleyball and Badminton courts
+
+>* DTCP Approved Plan along with Clear Title Deeds
+
+>* 10 mins from Karamadai & Periyanaickenpalayam Stations
+
+>* 2 NH highways within 5 mins drive
+
+---
 
 ## Location
 
