@@ -1,0 +1,8 @@
+
+table tr:nth-child(2n+1) {
+/*  background: #E8F2FF; */
+  background: #EFEEDD;
+}
+table tr:nth-child(2n) {
+/*  background: #E8F2FF; */
+  background: #eae8ff;
