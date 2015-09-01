@@ -795,6 +795,7 @@ function enumrateSlides() {
 		var span = document.createElement('span');
 		span.className = 'slide-nr';
 		span.innerHTML = "" + (i + 1);
+		span.style.fontSize = "500px";
 		el.appendChild(span);
 		slide.appendChild(el); 
 	}

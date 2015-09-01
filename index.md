@@ -1,7 +1,7 @@
 ---
 title       : Gokul Gardens
-subtitle    : Good living at a Budget
-author      : Vitrag Group
+subtitle    : Mathampalayam
+author      : Good living at a Budget
 job         : 
 logo        : Gokul gardens without background.png
 biglogo     : [Krishna.png]
@@ -12,22 +12,6 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {selfcontained,standalone, draft}
 knit        : slidify::knit2slides
 ---
-
-<!-- Limit image width and height -->
-<style type='text/css'>
-img {
-    max-height: 560px;
-    max-width: 978px;
-}
-</style>
-
-<!-- Center image on slide -->
-<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
-<script type='text/javascript'>
-$(function() {
-    $("p:has(img)").addClass('centered');
-});
-</script>
 
 ## Gokul Gardens
 
@@ -41,13 +25,17 @@ Gokul Gardens is a DTCP approved layout located on the outskirts of Coimbatore. 
 
 The well-planned layout has <span class="red">wide roads</span>, <span class="red">rainwater harvesting</span>, <span class="red">overhead water storage tank</span>, <span class="red">flowering trees</span> and various <span class="red">parks</span> across the layout. Located close to Mathampalayam, it is surrounded with 12 educational institutions and hospitals within 5 km.
 
+*View of Gokul Gardens layout*
+
 ![View of Gokul Gardens layout](assets/img/GGPlots-1.jpg)
 
 --- &custbg bg:"./assets/img/Picture1.png"
 
 ## Gokul Gardens - Plots
 
-Our plots are fully approved residential plots which are <span class="red">priced affordably</span> and are of between <span class="red">1.5 cents to 6 cents</span>. Each plot is surrounded with flowering trees and is less than 50 metres away from the park. Every plot has a <span class="red">beautiful view of the Nilgiris range</span> and the surrounding hills.
+Our plots are fully approved residential plots which are <span class="red">priced affordably</span> and are of <span class="red">1.5 cents to 6 cents</span>. Each plot is surrounded with flowering trees and is less than 50 metres away from the park. Every plot has a <span class="red">beautiful view of the Nilgiris range</span> and the surrounding hillocks.
+
+*Roadway along park*
 
 ![Roadway along park](assets/img/GGPlots-16.jpg)
 
@@ -74,11 +62,15 @@ Our plots are fully approved residential plots which are <span class="red">price
 
 ## Gokul Gardens - 15
 
+*Home on Plot 15*
+
 ![Plot 15](assets/img/Gokul15-3.jpg)
 
 ---  &custbg bg:"./assets/img/Picture1.png"
 
 ## Gokul Gardens - 15
+
+*Floor Plan of Plot 15*
 
 ![Floor Plan](assets/img/Sketches/Eco friendly cottage Floor Plan.jpg)
 
@@ -99,7 +91,7 @@ Our plots are fully approved residential plots which are <span class="red">price
 |Roofing | Mangalore tiled roofing with "Poo wood" for insulation|
 |Balcony | Yes|
 |Plinth | Section walls 8" and partition walls 4"|
-|Brick Quality  | German Tech Outdoor Pholotherm cavity bricks for better insulation|
+|Brick Quality  | German Tech Outdoor Pholotherm chamber bricks for better insulation|
 
 ---  &custbg bg:"./assets/img/Sketches/Eco-friendly-cottage-HIG.jpg"
 
@@ -131,26 +123,20 @@ Our plots are fully approved residential plots which are <span class="red">price
 Some of the benefits the layout has to offer are:
 
 >* 1,50,000 litre overhead water tank
-
 >* Rain water harvesting done throughout the layout to charge wells
-
->* Avenue trees along all roads with drip irrigation to support them for years together
-
->* Fully tarred 40 feet main road with 23/30 feet approach roads
-
+>* Avenue trees along all roads with drip irrigation to support them for years
+>* Fully tarred 40 feet main road with 23 & 30 feet avenue roads
 >* Street Lighting & domestic EB connections available within layout
-
->* 3 Parks spread over 50,000 sq.ft with Basketball, Volleyball and Badminton courts
-
+>* 50,000 sq.ft of park with Basketball, Volleyball and Badminton courts. The area with 3 zones catering to seniors, active youth and kids
 >* DTCP Approved Plan along with Clear Title Deeds
-
->* 10 mins from Karamadai & Periyanaickenpalayam Stations
-
+>* 10-15 mins from Karamadai & Periyanaickenpalayam Stations
 >* 2 NH highways within 5 mins drive
 
 ---  &custbg bg:"./assets/img/Picture1.png"
 
 ## Location
+
+*Location map to Gokul Gardens*
 
 ![direction map](assets/img/LocationMap.jpg)
 

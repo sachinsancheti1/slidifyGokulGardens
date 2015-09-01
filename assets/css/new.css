@@ -1,8 +1,40 @@
-
 table tr:nth-child(2n+1) {
-/*  background: #E8F2FF; */
-  background: #EFEEDD;
+	/*  background: #E8F2FF; */
+	background: #EFEEDD;
 }
 table tr:nth-child(2n) {
-/*  background: #E8F2FF; */
-  background: #eae8ff;
+	/*  background: #E8F2FF; */
+	background: #eae8ff;
+}
+
+em {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+	font-style:italic;
+	font-size: 15px;
+	text-align: center;
+	color: #af2b29;
+}
+
+p {
+	background-color: rgba(255, 255, 255, .1);
+	border-radius: 4px 4px 4px 2px;
+	padding: 10px;
+}
+
+article p, article li, article li.build, section p, section li {
+	background-color: rgba(255, 255, 255, .10);
+	border-radius: 4px 4px 4px 2px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+img {
+	margin-top:-20px;
+	max-height: 560px;
+	max-width: 978px;
+}
+}
