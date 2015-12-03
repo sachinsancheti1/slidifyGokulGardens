@@ -15,17 +15,17 @@ knit        : slidify::knit2slides
 
 ## Gokul Gardens
 
-Gokul Gardens is a DTCP approved layout located on the outskirts of Coimbatore. With over a 100 plots, the layout caters to good quality living at a reasonable value.
+>* Gokul Gardens is a DTCP approved layout located on the outskirts of Coimbatore. With over a 100 plots, the layout caters to good quality living at a reasonable value.
 
-The well-planned layout has <span class="red">wide roads</span>, <span class="red">rainwater harvesting</span>, <span class="red">overhead water storage tank</span>, <span class="red">flowering trees</span> and various <span class="red">parks</span> across the layout. Located close to Mathampalayam, it is surrounded with 12 educational institutions and hospitals within 5 km.
+>* The well-planned layout has <span class="red">wide roads</span>, <span class="red">rainwater harvesting</span>, <span class="red">overhead water storage tank</span>, <span class="red">flowering trees</span> and various <span class="red">parks</span> across the layout. Located close to Mathampalayam, it is surrounded with 12 educational institutions and hospitals within 5 km.
 
---- &custbg bg:"./assets/img/IMG_9706.jpg"
+--- &custbg bg:"./assets/img/IMG_8096.jpg"
 
 ## Gokul Gardens - Plots
 
-Our plots are fully approved residential plots which are <span class="red">priced affordably</span> and are of <span class="red">1.5 cents to 6 cents</span>. Each plot is surrounded with flowering trees and is less than 50 metres away from the park. Every plot has a <span class="red">beautiful view of the Nilgiris range</span> and the surrounding hillocks.
+>* Our plots are fully approved residential plots which are <span class="red">priced affordably</span> and are of <span class="red">1.5 cents to 6 cents</span>. Each plot is surrounded with flowering trees and is less than 50 metres away from the park. Every plot has a <span class="red">beautiful view of the Nilgiris range</span> and the surrounding hillocks.
 
----  &custbg bg:"./assets/img/GGPlots-1.jpg"
+---  &custbg bg:"./assets/img/IMG_8274.jpg"
 
 ## Gokul Gardens - Homes
 
@@ -35,7 +35,7 @@ Our plots are fully approved residential plots which are <span class="red">price
 
 ## Plot 15
 
----  &custbg bg:"./assets/img/Gokul15-2.jpg"
+---  &custbg bg:"./assets/img/IMG_8187-copy.jpg"
 
 ## Gokul Gardens - 15
 
@@ -44,7 +44,7 @@ Our plots are fully approved residential plots which are <span class="red">price
 >* The home in Gokul Gardens is supported by 2 sumps of 2,000 litres each. The kitchen is fully furnished with granite tops and modular fittings. 
 >* A large portico and open spaces allows 1 cars and two-wheelers to be parked. A nice sitout on the 1st floor looks into the Western Ghats in the distance.
 
----  &custbg bg:"./assets/img/Gokul15-3.jpg"
+---  &custbg bg:"./assets/img/IMG_8258-copy.jpg"
 
 ## Gokul Gardens - 15
 
@@ -68,7 +68,7 @@ Our plots are fully approved residential plots which are <span class="red">price
 |Roofing | Mangalore tiled roofing with "Poo wood" for insulation|
 |Balcony | Yes|
 |Plinth | Section walls 8" and partition walls 4"|
-|Brick Quality  | German Tech Outdoor Pholotherm chamber bricks for better insulation|
+|Brick Quality  | German Tech Outdoor Pholotherm chamber bricks for better insulation|
 
 ---  &custbg bg:"./assets/img/Sketches/Eco-friendly-cottage-HIG.jpg"
 
@@ -93,15 +93,15 @@ Our plots are fully approved residential plots which are <span class="red">price
 
 ## Gokul Gardens - 28
 
----  &custbg bg:"./assets/img/Gokul28-1.jpg"
+---  &custbg bg:"./assets/img/Plot28-exterior-001.jpg"
 
 ## Gokul Gardens - 28
 
 >* 
 
----  &custbg bg:"./assets/img/Gokul28-3.jpg"
+---  &custbg bg:"./assets/img/IMG_8197.jpg"
 
-## Gokul Gardens 28
+## Gokul Gardens - 28
 
 >* *Floor Plan of Plot 28*
 >* ![Floor Plan](assets/img/Sketches/Contemporary Home Floor Plan.jpg)
@@ -110,7 +110,7 @@ Our plots are fully approved residential plots which are <span class="red">price
 
 ## Gokul Gardens - 28 Factsheet
 
-|Property | Plot 15|
+|Property | Plot 28|
 |-----|-----|
 |Type of Property|Individual House/Villa|
 |BHK|3 BHK|
@@ -118,7 +118,7 @@ Our plots are fully approved residential plots which are <span class="red">price
 |Built Up area|2891.15 sq.ft|
 |Total Uncovered|948.06|
 |Carpet Area|2049.35 sq.ft|
-|Plot Size|1525 sq.ft.  (3.5 Cents )|
+|Plot Size|1525 sq.ft. (3.5 Cents )|
 |Flooring|Tiles|
 |Roofing|RCC|
 |Balcony|Yes|
@@ -129,7 +129,7 @@ Our plots are fully approved residential plots which are <span class="red">price
 
 ## Gokul Gardens - 28 Factsheet
 
-|Property | Plot 15|
+|Property | Plot 28|
 |-----|-----|
 |Corner Plot?|No|
 |Electrical Fittings|Havells electrical equipment|
@@ -144,20 +144,20 @@ Underground Water Storage; | Sump of 5,500 litres [4,500 litres - bore water 1,0
 |Sewage Disposal: |4,800 litres|
 |Rain Water Harvesting|Yes|
 
----  &custbg bg:"./assets/img/Gokul15-1.jpg"
+---  &custbg bg:"./assets/img/IMG_8152.jpg"
 
 ## Benefits of being at Gokul Gardens
 
 Some of the benefits the layout has to offer are:
 
->* 1,50,000 litre overhead water tank
->* Rain water harvesting done throughout the layout to charge wells
->* Avenue trees along all roads with drip irrigation to support them for years
->* Fully tarred 40 feet main road with 23 & 30 feet avenue roads
->* Street Lighting & domestic EB connections available within layout
->* 50,000 sq.ft of park with Basketball, Volleyball and Badminton courts. The area with 3 zones catering to seniors, active youth and kids
->* DTCP Approved Plan along with Clear Title Deeds
->* 10-15 mins from Karamadai & Periyanaickenpalayam Stations
+>* <span class="red">1,50,000 litre</span> overhead water tank
+>* <span class="red">Rain water harvesting</span> done throughout the layout to charge wells
+>* Avenue <span class="red">trees</span> along all roads with drip irrigation to support them for years
+>* Fully tarred <span class="red">40 feet</span> main road with <span class="red">23 & 30</span> feet avenue roads
+>* Street Lighting & <span class="red">domestic EB connections</span> available within layout
+>* 50,000 sq.ft of <span class="red">park</span> with <span class="red">Basketball, Volleyball and Badminton courts</span>. The area with 3 zones catering to seniors, active youth and kids
+>* <span class="red">DTCP Approved Plan</span> along with Clear Title Deeds
+>* 10-15 mins from <span class="red">Karamadai & Periyanaickenpalayam Stations</span>
 >* 2 NH highways within 5 mins drive
 
 ---  &custbg bg:"./assets/img/LocationMap.jpg"
@@ -201,7 +201,7 @@ There are atleast 12 educational institutions from with in 5 minutes to 25 minut
 
 >* Periyanaickenpalayam which is the next major town in this area is today home to <span class="red">Pricol</span> Head Quarters and many ancillary units, number of <span class="red">hospitals</span>, higher and school level <span class="red">educational</span> institutions, service plus trade establishments. The fact that more than 10 <span class="red">banks</span> including the banks like ICICI and a couple of departmental stores like Reliance Fresh have opened shops here are indicators of growth and development.
 
----  &custbg bg:"./assets/img/GGPlots-24.jpg"
+---  &custbg bg:"./assets/img/IMG_8394.jpg"
   
 ## Special Features of the Gokul Gardens
   
@@ -209,17 +209,21 @@ There are atleast 12 educational institutions from with in 5 minutes to 25 minut
 
 >* Rain Water Harvesting has been planned along the entire 1800 odd feet - 40 wide drive way. This will not only improve the ground water charge, but will also help our bore well. The entire layout is VASTU complaint.
 
----  &custbg bg:"./assets/img/GGPlots-25.jpg"
+
+---  &custbg bg:"./assets/img/IMG_8380web.jpg"
+
 
 >* ## Planting Program
 
 >* Avenue flowering trees like Gulmohar, Cordia, Yellow shower etc have been planted along the entire drive way and supported by drip irrigation. Besides this we have established a 10 height Cassurina hedge with about 3700 saplings to make up the western boundary. This hedge today has established itself as a 10 feet tall green screen.
 
->* ## Roads
+---  &custbg bg:"./assets/img/IMG_8152.jpg"
+## Roads
   
 >* 40' wide main road with 23'& 30' supporting roads leading to the plots. The roads are metal topped and have gradual taper to avoid water stagnation.
 
->* ## Park
+---  &custbg bg:"./assets/img/IMG_8466.jpg"
+## Park
 
 >* The entire eastern boundary has a park spread over one acre. This will ensure oxygen supply to the whole layout rather than being confined to a few pockets.
 Storm Water + waste water drain are built keeping rugged use in mind.
