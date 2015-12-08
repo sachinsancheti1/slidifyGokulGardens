@@ -23,13 +23,15 @@ knit        : slidify::knit2slides
 
 ## Gokul Gardens - Plots
 
->* Our plots are fully approved residential plots which are <span class="red">priced affordably</span> and are of <span class="red">1.5 cents to 6 cents</span>. Each plot is surrounded with flowering trees and is less than 50 metres away from the park. Every plot has a <span class="red">beautiful view of the Nilgiris range</span> and the surrounding hillocks.
+>* Our plots are fully approved residential plots which are <span class="red">priced affordably</span> and are of <span class="red">1.5 cents to 6 cents</span>. Each plot is less than 50 metres away from the park which is covered with flowering trees and shrubs. Every plot has a <span class="red">beautiful view of the Nilgiris range</span> and the surrounding hillocks.
 
 ---  &custbg bg:"./assets/img/IMG_8274.jpg"
 
 ## Gokul Gardens - Homes
 
 >* 2 homes built at Gokul Gardens
+>* Both homes built within 3.5 cents of land
+>* Serve as model homes for Gokul Gardens
 
 ---  &custbg bg:"./assets/img/Sketches/Eco-friendly-cottage-HIG.jpg"
 
@@ -43,6 +45,7 @@ knit        : slidify::knit2slides
 >* The home is semi-furnished and has all the amenities that will be true to good living at a budget.
 >* The home in Gokul Gardens is supported by 2 sumps of 2,000 litres each. The kitchen is fully furnished with granite tops and modular fittings. 
 >* A large portico and open spaces allows 1 cars and two-wheelers to be parked. A nice sitout on the 1st floor looks into the Western Ghats in the distance.
+>* Eco-friendly home which is made up of German technology bricks for state of the art insulation
 
 ---  &custbg bg:"./assets/img/IMG_8258-copy.jpg"
 
@@ -97,7 +100,10 @@ knit        : slidify::knit2slides
 
 ## Gokul Gardens - 28
 
->* 
+>* First home built in Gokul Gardens, also built on 3.5 cents with a private car porch and 2800 sq.ft.
+>* Home enjoys views of the Western Ghats
+>* 3 bedroom home and has a large living / dining room
+>* A large balcony creates ambiance and open spaces for the home which can also be used as a potted garden and evening sit out.
 
 ---  &custbg bg:"./assets/img/IMG_8197.jpg"
 
@@ -169,9 +175,9 @@ Some of the benefits the layout has to offer are:
 ## Location (cont.)
 
 * 2.25 kms off from NH 67 Coimbatore - Mettupalayam (i.e. 5 minutes driving time)
-* 8 kms from NH. 209 Coimbatore - Sathy (aprox 20 min driving time)
+* 8 kms from NH. 209 Coimbatore - Sathy (approx 20 min driving time)
 
->* both these highways are playing host to number of educational & business establishments
+>* both these highways are playing host to number of <span class="red">educational & business establishments</span>
 
 >* Saravanampatti (20 minutes driving time), located on the NH 209 is a hot spot in terms of real overall activity
 
@@ -183,7 +189,6 @@ Some of the benefits the layout has to offer are:
 
 Mathampalayam and its vicinity are now home to number of schools and colleges
 
->* Vidhya Vikas Mat
 >* School, Vidya Vikas CBSE School
 >* Christ The King International School
 >* Christ The King Engineering College
